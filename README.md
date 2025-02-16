@@ -78,3 +78,8 @@ if any changes please update the program.cs under Cafe.API project and src-> api
 
 ![image](https://github.com/user-attachments/assets/b2353da2-a3c2-4692-8177-67dcf66fbc30)
 
+The project is integrated with SonarCloud for continuous code quality monitoring. You can view the detailed analysis at: [https://sonarcloud.io/summary/overall?id=thilandakshina_GICBankingSystem](https://sonarcloud.io/summary/overall?id=thilandakshina_GIC.Cafe.Employee&branch=main)
+(*I'll try write more unit test to cover 80% coverage)
+
+
+The project is integrated with SonarCloud for continuous code quality monitoring. You can view the detailed analysis at: https://sonarcloud.io/summary/overall?id=thilandakshina_GICBankingSystem
